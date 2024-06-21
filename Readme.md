@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nishant Paliwal</h1>
 <h3 align="center">A Full stack developer, powered by AI.</h3>
 
-🔭 I’m currently working on My Blog Website Project<br>🌱 I’m currently learning JAVA<br>💬 Ask me about CORE JAVA, REACTJS, TAILWIND CSS, NODEJS, EXPRESSJS,  CSS, HTML, BOOTSTAP. GIT<br>⚡ Fun fact : A DEVELOPER, NOT SCAREDOF A.I.
+🔭 I’m currently working on My Blog Website Project<br>🌱 I’m currently learning JAVA<br>💬 Ask me about CORE JAVA, REACTJS, TAILWIND CSS, NODEJS, EXPRESSJS, CSS, HTML, BOOTSTAP. GIT<br>
 <!--👯 I’m looking to collaborate on <br>🤝 I’m looking for help with<br>-->
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nishant.paliwal783) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nishant-paliwal-473a50262) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/NishantTech783) 
